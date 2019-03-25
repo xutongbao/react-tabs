@@ -1,0 +1,8 @@
+.m-tab{display: inline-block;margin: 0 10px;font-size: 36px; list-style-type: none; cursor: pointer;}
+.m-tab:hover{color: #f66f0c;}
+.m-tab.active{color: #f66f0c;}
+.m-sub-tab{display: inline-block;margin: 0 10px;font-size: 28px; list-style-type: none; cursor: pointer;}
+.m-sub-tab:hover{color: #f66f0c;}
+.m-sub-tab.active{color: #f66f0c;}
+.m-view{display: none;}
+.m-view.active{display: block;}
